@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenDisplay.CSharp", "ScreenDisplay.CSharp.csproj", "{2D81C70C-7366-FF53-F360-9075E1CC456F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenDisplay.CSharp.Editor", "ScreenDisplay.CSharp.Editor.csproj", "{BFCAF974-CFC3-970B-DC11-C2316158F6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D81C70C-7366-FF53-F360-9075E1CC456F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D81C70C-7366-FF53-F360-9075E1CC456F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D81C70C-7366-FF53-F360-9075E1CC456F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D81C70C-7366-FF53-F360-9075E1CC456F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCAF974-CFC3-970B-DC11-C2316158F6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCAF974-CFC3-970B-DC11-C2316158F6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCAF974-CFC3-970B-DC11-C2316158F6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCAF974-CFC3-970B-DC11-C2316158F6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
